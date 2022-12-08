@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Mobile Application for ToDo
+  Web Application for Feed
 </h3>
 
-<p align="center">Create, list, complete and delete your tasks</p>
+<p align="center">Create and delete your comments</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/feed-web?color=%2303875f">
